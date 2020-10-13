@@ -13,7 +13,9 @@
 
 
     <modules>
+        <module>log-spring-boot-starter</module>
         <module>swagger-spring-boot-starter</module>
         <module>core</module>
+        <module>validation-and-exception-starter</module>
     </modules>
 </project>
