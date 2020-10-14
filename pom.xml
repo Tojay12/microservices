@@ -134,11 +134,11 @@
 				<artifactId>log-spring-boot-starter</artifactId>
 				<version>${project.version}</version>
 			</dependency>
-<!--			<dependency>-->
-<!--				<groupId>com.zlt</groupId>-->
-<!--				<artifactId>zlt-auth-client-spring-boot-starter</artifactId>-->
-<!--				<version>${project.version}</version>-->
-<!--			</dependency>-->
+			<dependency>
+				<groupId>com.jyw</groupId>
+				<artifactId>validation-and-exception-starter</artifactId>
+				<version>${project.version}</version>
+			</dependency>
 <!--			<dependency>-->
 <!--				<groupId>com.zlt</groupId>-->
 <!--				<artifactId>zlt-sentinel-spring-boot-starter</artifactId>-->
