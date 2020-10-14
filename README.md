@@ -24,15 +24,11 @@
       * 返回消息
       */
      private String message;
- }
- 
- `
+ }`
 项目结构如下：
 `microsevices -- 父项目，公共依赖
  │  ├─commons -- 通用工具一级工程
  │  │  ├─log-spring-boot-starter -- 封装log日志通用操作逻辑
  │  │  ├─swagger-spring-boot-starter -- 封装Swagger通用操作逻辑 
- │  │  ├─validation-and-exception-starter -- 封装统一校验和异常通用操作逻辑 
- 
- `
+ │  │  ├─validation-and-exception-starter -- 封装统一校验和异常通用操作逻辑 `
 
